@@ -52,11 +52,11 @@ The analysis was performed on 3,900+ customer transaction records.
 
 ## Tools & Technologies
 
-- **Python** – Data Analysis & Preprocessing
-- **Pandas** – Data Manipulation
-- **Excel** – Data Inspection & Preliminary Analysis
-- **SQL** – Business Queries & Analytical Analysis
-- **Power BI** – Interactive Dashboard & Data Visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
