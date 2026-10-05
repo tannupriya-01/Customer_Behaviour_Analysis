@@ -163,6 +163,6 @@ Retail_Customer_Behaviour_Analysis/
 │   └──customer_trend_analysis.ipynb
 │
 ├── powerbi/
-│   └── retail_customer_dashboard.pbix
+│   └── customer_behaviour_dashboard.pbix
 │
 └── README.md
