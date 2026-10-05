@@ -116,7 +116,18 @@ Developed an interactive Power BI dashboard featuring:
 
 ## Dashboard
 
-The Power BI dashboard provides an interactive view of customer behaviour, sales performance and revenue trends.
+The Power BI dashboard provides an interactive view of customer behaviour and business performance through KPIs, charts, and filters.
+
+Key dashboard areas include:
+
+- Customer behaviour
+- Purchase trends
+- Product categories
+- Demographic analysis
+- Seasonal analysis
+- Online vs. offline channels
+- Payment preferences
+- Customer engagement indicators
 
 ### Key Dashboard Metrics
 
@@ -129,15 +140,38 @@ The dashboard enables users to filter and analyze customer behaviour based on de
 
 ---
 
-## Key Results
+## Key Insights
 
-- Identified **3,900+ customer transactions** for behavioural and sales analysis.
-- Analyzed revenue and sales performance across multiple product categories.
-- Evaluated customer behaviour across different age groups and subscription statuses.
-- Identified category-level and demographic purchasing patterns.
-- Built an interactive Power BI dashboard with **10+ business KPIs and visualizations**.
+The analysis identifies actionable patterns in customer purchasing behaviour and provides insights that can support:
+
+- Customer segmentation
+- Targeted marketing campaigns
+- Promotional and discount strategies
+- Product planning
+- Customer engagement
+- Sales-channel optimization
+- Repeat-purchase strategies
+
+> Quantitative findings and detailed business recommendations are available in the project report and Power BI dashboard.
 
 ---
+
+## Project Structure
+
+```text
+Retail_Customer_Behaviour_Analysis/
+│
+├── data/
+│   └── customer_shopping_behavior.csv
+│
+├── notebooks/
+│   └── customer_trend_analysis.ipynb
+│
+├── powerbi/
+│   └── customer_behaviour_dashboard.pbix
+|
+└── README.md
+```
 
 ## How to Run
 
